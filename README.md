@@ -8,7 +8,7 @@ Instead of typing/pasting out the same **long** command out, I wanted to make it
 
 ## Can I use it without the script?
 Yes, you can use the command as is: `youtube-dl --extract-audio --audio-format mp3  --audio-quality  0  <url>`
-
+* Replace <url> with your desired YouTube URL (or whatever you media you may want to download)
 * Be sure to have youtube-dl installed on your computer!
 
 ## Installation
