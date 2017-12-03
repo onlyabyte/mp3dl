@@ -1,7 +1,7 @@
 # mp3dl
 
 ## Introduction
-This is a simple script designed to download high quality MP3s from YouTube by using youtube-dl. youtube-dl is a powerful tool which is used to download video and audio from various sites. With the right flags, you can output a very high quality MP3 directly from YouTube. It will generally give you a VBR MP3 ranging from 230kbps to 300kbps. 
+This is a simple script designed to download high quality MP3s from YouTube by using youtube-dl. youtube-dl is a powerful tool which is used to download video and audio from various sites. With the right flags, you can output a very high quality MP3 directly from YouTube. It will output a VBR MP3 file ranging from 230kbps to 300kbps and in terms of quality, it is identical to what you listen on YouTube.
 
 ## What's the point of this script?
 Instead of typing/pasting out the same **long** command out, I wanted to make it simple and save time for the user.
