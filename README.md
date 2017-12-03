@@ -9,11 +9,9 @@ Instead of typing/pasting out the same **long** command out, I wanted to make it
 ## Can I use it without the script?
 Yes, you can use the command as is: `youtube-dl --extract-audio --audio-format mp3  --audio-quality  0  <url>`
 
-* Be sure to have youtube-dl installed though
+* Be sure to have youtube-dl installed on your computer!
 
-## Can I have
-
-# Installation
+## Installation
 * Be sure to visit here to install `youtube-dl` http://rg3.github.io/youtube-dl/download.html
 * Simply follow the instructions on the page.
 * Now you can download the script from my github page or by creating your own.
