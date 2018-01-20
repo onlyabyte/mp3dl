@@ -10,6 +10,10 @@ Instead of typing/pasting out the same **long** command out, I wanted to make it
 Yes, you can use the command as is: `youtube-dl --extract-audio --audio-format mp3  --audio-quality  0  <url>`
 * Replace <url> with your desired YouTube URL (or whatever you media you may want to download)
 * Be sure to have youtube-dl installed on your computer!
+  
+## Prerequisites
+Install the following
+* `youtube-dl` `ffmpeg`
 
 ## Installation
 * Be sure to visit here to install `youtube-dl` http://rg3.github.io/youtube-dl/download.html
@@ -19,6 +23,3 @@ Yes, you can use the command as is: `youtube-dl --extract-audio --audio-format m
 * Copy the script to `/usr/bin` or run the command `cp mp3dl.sh /usr/bin`
 * Type mp3dl.sh and it will prompt you to paste your YouTube URL. Paste it and hit enter.
 * By default, it will download the MP3 into your current directory. So if you want to download it into `~/Music/` then just navigate into that directory.
-
-
-
