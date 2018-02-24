@@ -19,7 +19,7 @@ Install the following
 * Be sure to visit here to install `youtube-dl` http://rg3.github.io/youtube-dl/download.html
 * Simply follow the instructions on the page.
 * Now you can download the script from my github page or by creating your own.
-* Navigate to where you downloaded the script and run: `chmod +x mp3dl.sh`
-* Copy the script to `/usr/bin` or run the command `cp mp3dl.sh /usr/bin`
+* Navigate to where you downloaded the script and run: `chmod 755 mp3dl`
+* Copy the script to `/usr/bin` or run the command `cp mp3dl /usr/bin`
 * Type mp3dl.sh and it will prompt you to paste your YouTube URL. Paste it and hit enter.
 * By default, it will download the MP3 into your current directory. So if you want to download it into `~/Music/` then just navigate into that directory.
