@@ -1,7 +1,0 @@
-#!/bin/bash
-
-# To get this script to work properly, make sure youtube-dl is installed and you have placed this script in /usr/bin/
-# If you're having trouble executing it, run: chmod 755 mp3dl
-
-read -p "Paste Your YouTube URL: "	url
-youtube-dl --extract-audio --audio-format mp3 --audio-quality 0 $url
